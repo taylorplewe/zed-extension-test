@@ -1,0 +1,7 @@
+id = "zed-extension-test"
+name = "Taylor's Zed Extension Test"
+version = "0.0.1"
+schema_version = 1
+authors = ["Taylor Plewe <tplewe@outlook.com>"]
+description = "My cool extension"
+repository = "https://github.com/taylorplewe/doesnt-exist"
